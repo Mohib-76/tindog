@@ -1,0 +1,169 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+#title{
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+#features{
+  text-align: center;
+  background-color: white;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 2.8rem;
+  font-weight: lighter;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.nav-link{
+  padding: 0 18px;
+}
+
+.nav-item{
+  font-size: 1.2rem;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 200px;
+  transform: rotate(25deg);
+}
+
+.title-image-div{
+  text-align: center;
+}
+
+.icon{
+  font-size: 4rem;
+  color: #ef8172;
+  padding: 5% ;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+.features-container{
+padding: 7% 12%;
+
+}
+
+.features{
+  padding: 5%;
+}
+
+.features-text{
+  color: #8f8f8f;
+  font-weight: bold;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+
+}
+
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+#press{
+  background-color:  #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-images{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#pricing{
+  padding: 7% 10%;
+  text-align: center;
+}
+
+
+.pricing-col{
+  padding: 3% 2%;
+}
+
+#cta{
+  background-color: #ff4c68;
+}
+
+.cta-div{
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.cta-button{
+    margin: 5% 3% 5% 0;
+}
+
+
+#footer{
+  text-align: center;
+}
+
+.footer-div{
+  padding: 5% 3%;
+}
+
+.footer-icon{
+  padding: 5px;
+  color: black;
+}
+
+.copyright{
+  padding: 20px;
+}
+@media (max-width: 992px) {
+
+  .row{
+    text-align: center;
+  }
+  .title-image{
+    transform: none;
+    width: 60%;
+  }
+}
